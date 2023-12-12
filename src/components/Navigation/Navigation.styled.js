@@ -28,6 +28,6 @@ export const LinkItem = styled(NavLink)`
   color: #000000;
 
   &.active {
-    color: #ff6347;
+    color: #3470ff;
   }
 `;
